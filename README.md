@@ -14,6 +14,9 @@ https://teams.live.com/*
 
 https://teams.microsoft.com/*
 
+https://teams.microsoft.com.mcas.ms/*
+
+https://dod.teams.microsoft.us.mcas-gov.us/*
 
 ### The problem
 
