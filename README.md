@@ -7,6 +7,11 @@ Keep Teams Awake is a very simple, barebones "mouse jiggler" browser extension f
 
 It works on Firefox and Chrome-based browsers.
 
+### Supported Teams addresses
+https://teams.cloud.microsoft/* (2026 update)
+https://teams.live.com/*
+https://teams.microsoft.com/*
+
 ### The problem
 
 The web version of Microsoft Teams can't (and shouldn't!) track mouse or keyboard behavior unless it has focus.
