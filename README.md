@@ -9,8 +9,11 @@ It works on Firefox and Chrome-based browsers.
 
 ### Supported Teams addresses
 https://teams.cloud.microsoft/* (2026 update)
+
 https://teams.live.com/*
+
 https://teams.microsoft.com/*
+
 
 ### The problem
 
