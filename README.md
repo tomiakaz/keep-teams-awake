@@ -1,4 +1,4 @@
-# Keep Teams Awake
+# Keep Teams Awake 2026 update
 
 [![Install Addon Firefox](images/firefox-get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/keep-teams-awake/)
 [![Install Addon Chrome](images/chrome-get-the-addon.png)](https://chromewebstore.google.com/detail/keepteamsawake/acofimfooiojfhnokmddfgmlfnjnhobp)
