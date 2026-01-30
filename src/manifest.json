@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "KeepTeamsAwake",
-  "version": "1.0.2",
+  "version": "1.0.4",
 
   "description": "Prevents the Microsoft Teams website or PWA from sleeping",
 
